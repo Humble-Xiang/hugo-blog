@@ -12,6 +12,7 @@ featuredImage: "https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/Deve
 
 {{< card "https://start.spring.io/" >}}
 {{< card url="https://spring.io/guides" title="Spring Guides" description="Whatever you're building, these guides are designed to get you productive as quickly as possible – using the latest Spring project releases and techniques as recommended by the Spring team.">}}
+{{< card "https://spring.io/projects/spring-boot" >}}
 {{< card "https://www.springcloud.cc/spring-boot.html" >}}
 {{< card "https://github.com/Humble-Xiang/learn-spring-initializr-dependencies" >}}
 

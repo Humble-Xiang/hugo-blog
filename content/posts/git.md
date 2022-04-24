@@ -363,6 +363,19 @@ git rebase -i HEAD~3
 
 {{< card "https://juejin.cn/post/6844903600976576519" >}}
 
+### 修改 Commit 作者信息
+
+```bash
+git commit --amend --author="your_name <your_email>"
+```
+
+### 修改 Commit 提交时间
+
+```bash
+# 日期年月日和时分秒中间的T是固定字符
+GIT_COMMITTER_DATE="yyyy-MM-ddTHH:mm:ss" git commit --amend --date="yyyy-MM-ddTHH:mm:ss"
+```
+
 ## 扩展
 
 ### 多人协作工作流程
