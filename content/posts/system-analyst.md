@@ -74,3 +74,55 @@ draft: true
 ![截屏2022-04-26-21](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-04-26-21.61ybfap48qw0.webp "循环校验码-2")
 ![截屏2022-04-26-21](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-04-26-21.35xqbqk79ji0.webp "循环校验码-3")
 ![截屏2022-04-26-21](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-04-26-21.vv0udo39jjk.webp "循环校验码-4")
+
+### 操作系统
+
+![截屏2022-05-05-19](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-05-05-19.4x8kyj4f1dk0.webp "内容提要")
+![截屏2022-05-05-19](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-05-05-19.3prhvx6mf600.webp "操作系统概述")
+
+#### 进程管理
+
+![截屏2022-05-05-19](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-05-05-19.1yp0jxl3y1k0.webp "进程的概念")
+![截屏2022-05-05-19](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-05-05-19.1g2yub5qvmu8.webp "进程与程序")
+![截屏2022-05-05-19](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-05-05-19.1jwtfeddl9b4.webp "进程与线程")
+![截屏2022-05-05-19](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-05-05-19.5ppsf2slhho0.webp "进程的状态")
+![截屏2022-05-05-19](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-05-05-19.ybqmevsmtuo.webp "进程的同步与互斥-1")
+![截屏2022-05-05-19](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-05-05-19.6nrkfva0xps0.webp "进程的同步与互斥-2")
+![截屏2022-05-05-19](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-05-05-19.2e4951ymbetc.webp "进程的同步与互斥-3")
+![截屏2022-05-05-19](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-05-05-19.3rww0vc4f1c0.webp "PV操作与互斥模型")
+![截屏2022-05-05-19](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-05-05-19.2qu7k4ztpb60.webp "PV操作-1")
+![截屏2022-05-05-20](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-05-05-20.371bapf6m5s0.webp "PV操作-2")
+![截屏2022-05-05-20](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-05-05-20.3i59vvt5mx80.webp "PV操作-3")
+![截屏2022-05-05-20](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-05-05-20.63z2ym6p4380.webp "PV操作-4")
+![截屏2022-05-05-20](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-05-05-20.y9v9u36zqow.webp "前趋图-1")
+![截屏2022-05-05-20](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-05-05-20.2bbpzwppescg.webp "前趋图-2")
+![截屏2022-05-05-20](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-05-05-20.6w1bmjhvz7k0.webp "前趋图-3")
+![截屏2022-05-05-20](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-05-05-20.uulaxhnta8g.webp "前趋图-4")
+![截屏2022-05-05-20](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-05-05-20.66qq7a06thk0.webp "前趋图和PV操作")
+![截屏2022-05-05-20](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-05-05-20.5n0b5tkwvgg0.webp "死锁")
+![截屏2022-05-05-20](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-05-05-20.3g85i4bxabc0.webp "死锁的资源数计算")
+![截屏2022-05-05-20](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-05-05-20.4dv5tibu0p60.webp "银行家算法-1")
+![截屏2022-05-05-20](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-05-05-20.33kk5nrxppe0.webp "银行家算法-2")
+![截屏2022-05-05-20](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-05-05-20.5ve3oh75r680.webp "银行家算法-3")
+
+#### 存储管理
+
+![截屏2022-05-06-19](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-05-06-19.2jacmq4x68e0.webp "页式存储-1")
+![截屏2022-05-06-19](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-05-06-19.7a98jjtbn9w0.webp "页式存储-2")
+![截屏2022-05-06-19](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-05-06-19.2pah98xgyu40.webp "页式存储-3")
+![截屏2022-05-06-19](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-05-06-19.63mrvg5hiz40.webp "段式存储-1")
+![截屏2022-05-06-19](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-05-06-19.2gy2d4fa53i0.webp "段式存储-2")
+![截屏2022-05-06-19](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-05-06-19.5oi9nqv5q4w0.webp "段页式存储")
+![截屏2022-05-06-19](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-05-06-19.17xqpo2bxxuo.webp "快表")
+![截屏2022-05-06-19](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-05-06-19.6bpjduvg1580.webp "页面置换算法")
+
+#### 文件管理
+
+![截屏2022-05-06-20](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-05-06-20.3fnknrmid2g0.webp "索引文件结构-1")
+![截屏2022-05-06-20](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-05-06-20.6ubz9x1owmc0.webp "索引文件结构-2")
+![截屏2022-05-06-20](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-05-06-20.xwrtsk9o4cw.webp "索引文件结构-3")
+![截屏2022-05-06-20](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-05-06-20.4a0tidh14f80.webp "位示图-1")
+![截屏2022-05-06-20](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-05-06-20.abmarhwxko0.webp "位示图-2")
+![截屏2022-05-06-20](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-05-06-20.1677tqc5ds74.webp "树形目录结构")
+![截屏2022-05-06-20](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-05-06-20.364mgeinh0o0.webp "微内核操作系统")
+![截屏2022-05-06-20](https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/geek/截屏2022-05-06-20.ib1agdi7uk8.webp "嵌入式操作系统")
