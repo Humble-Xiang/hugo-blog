@@ -2,7 +2,7 @@
 title: "Oracle 的使用"
 date: 2021-10-09T20:36:44+08:00
 categories: ["Development"]
-tags: ["Environment"]
+tags: ["Support"]
 featuredImage: "https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/Development/oracle-banner.1s81s4rls7b4.webp"
 ---
 

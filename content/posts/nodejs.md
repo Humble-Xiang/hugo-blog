@@ -2,7 +2,7 @@
 title: "Node.js 的使用"
 date: 2019-09-23T17:11:43+08:00
 categories: ["Development"]
-tags: ["Environment"]
+tags: ["Support"]
 featuredImage: "https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/Development/nodejs-banner.6rfb93mmq280.webp"
 ---
 
