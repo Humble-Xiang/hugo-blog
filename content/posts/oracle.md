@@ -14,6 +14,10 @@ featuredImage: "https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/Deve
 
 > Oracle 是一种高效率、可靠性好的、适应高吞吐量的数据库解决方案。
 
+## 入门
+
+{{< card "https://juejin.cn/post/6844903822913978381" >}}
+
 ## 安装
 
 ### Docker 安装开发环境 Oracle 11g
