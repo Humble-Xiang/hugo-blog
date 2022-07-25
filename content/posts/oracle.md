@@ -2,7 +2,7 @@
 title: "Oracle 的使用"
 date: 2021-10-09T20:36:44+08:00
 categories: ["Development"]
-tags: ["Tool"]
+tags: ["Environment"]
 featuredImage: "https://cdn.jsdelivr.net/gh/Humble-Xiang/picx-images@master/Development/oracle-banner.1s81s4rls7b4.webp"
 ---
 
@@ -163,3 +163,7 @@ SELECT SESS.SID,SESS.SERIAL#, LO.ORACLE_USERNAME,LO.OS_USER_NAME, AO.OBJECT_NAME
 -- 杀死锁表的 SESSION
 ALTER SYSTEM KILL SESSION 'SID,SERIAL';
 ```
+
+### 如何将逗号分隔的值字符串拆分为 Oracle 数据库中的行
+
+{{< card title="How to split comma separated value strings into rows in Oracle Database" url="https://blogs.oracle.com/sql/post/split-comma-separated-values-into-rows-in-oracle-database" >}}
