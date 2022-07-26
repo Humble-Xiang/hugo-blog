@@ -491,7 +491,7 @@ enableEmoji = true
       enable = true
       [params.page.share.ogimage]
         enable = true
-        serverURL = "https://og-image.vercel.app/"
+        serverURL = "https://og-image-humble-xiang.vercel.app"
         # 文章标题上面的默认图片，文章存在 featuredImage 时优先使用 featuredImage
         defaultImage = "https://humble-blog.vercel.app/images/avatar.jpg"
       Twitter = true
